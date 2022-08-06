@@ -1,7 +1,7 @@
 <p align="center">
 	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-d3d0a9303e11d522a06cd263f3079027715.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">RuoYi v3.8.3</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">LessBoot v0.0.1</h1>
 <h4 align="center">基于SpringBoot+Vue前后端分离的Java快速开发框架</h4>
 <p align="center">
 	<a href="https://gitee.com/y_project/RuoYi-Vue/stargazers"><img src="https://gitee.com/y_project/RuoYi-Vue/badge/star.svg?theme=dark"></a>
@@ -43,6 +43,17 @@
 16. 缓存监控：对系统的缓存信息查询，命令统计等。
 17. 在线构建器：拖动表单元素生成相应的HTML代码。
 18. 连接池监视：监视当前系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
+19. 实验室管理【即将到来】
+20. 仪器管理【即将到来】
+21. 合同管理【即将到来】
+22. 人员管理【即将到来】
+23. 合同管理【即将到来】
+24. 财务管理【即将到来】
+25. 预约管理【即将到来】
+26. 客户端和物联网设备管理【即将到来】
+27. 科技部国家网络管理平台对接【即将到来】
+28. 浙江省共享仪器平台对接【即将到来】
+29. 培训、资料管理和社区论坛【即将到来】
 
 ## 在线体验
 
